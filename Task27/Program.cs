@@ -20,8 +20,6 @@ int SumDigits(int num)
     return count;
 }
 
-
-
 Console.WriteLine("Введите натуральное число, A = ");
 int number = Convert.ToInt32(Console.ReadLine());
 
