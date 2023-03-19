@@ -17,5 +17,5 @@ string FindRange(string quart)//метод
     if (quart == "3") return "x < 0, y < 0";
     if (quart == "4") return "x > 0, y < 0";
     return "Не соответствует никакой четверти";
-    ;
+    
 }
